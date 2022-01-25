@@ -1,0 +1,8 @@
+WPI_TalonFX eleven = new WPI_TalonFX(11);
+    eleven.setNeutralMode(NeutralMode.Brake);
+    WPI_TalonFX thirteen = new WPI_TalonFX(13);
+    thirteen.setNeutralMode(NeutralMode.Brake);
+    WPI_TalonFX fifteen = new WPI_TalonFX(15);
+    fifteen.setNeutralMode(NeutralMode.Brake);
+    WPI_TalonFX seventeen = new WPI_TalonFX(17);
+    seventeen.setNeutralMode(NeutralMode.Brake);
